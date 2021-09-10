@@ -9,8 +9,7 @@ const Login = () => {
   return (
     <div id="login-page">
       <div id="login-card">
-        <img src={require("./static/s.png")} alt="applogo" height="170px" />
-
+        <img src={require("./static/sn.gif")} alt="applogo" height="170px" />
         <h3>Sign in with</h3>
         <div className="login-button">
           <div
