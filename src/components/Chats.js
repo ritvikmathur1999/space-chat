@@ -82,7 +82,7 @@ export default function Chats() {
         {/* <div className="logodiv">
           <img src={require("./static/s.png")} alt="logo" height="50px" />
         </div> */}
-        <div className="logo-tab">Space Chat</div>
+        <div className="logo-tab">Your Space</div>
         <div onClick={handleLogout} className="logout-tab">
           Logout
         </div>
